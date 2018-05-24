@@ -1,0 +1,11 @@
+
+START = 'Hello, %s.\nWhat you want to do?\nADD a new task?\nShow your existing TIMETABLE?\nCUT from timetable existing task?'
+NEW = 'New day new task!'
+SHOW = 'Your tasks'
+DELETE = 'Do you want delete it?'
+TIME = 'Enter the time of task in such format: At:xx:xx in 24 hours format'
+TASK = 'Enter the task in such format: Task:xxxxxxxxxx\nRemember: you can add only one task for one time!'
+SAVE = 'Task saved!'
+NONE = ':('
+DELETE2 = 'Deleted!'
+ERROR = 'Wrong format'
