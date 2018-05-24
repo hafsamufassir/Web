@@ -1,4 +1,3 @@
-
 START = 'Hello, %s.\nWhat you want to do?\nADD a new task?\nShow your existing TIMETABLE?\nCUT from timetable existing task?'
 NEW = 'New day new task!'
 SHOW = 'Your tasks'
