@@ -1,10 +1,10 @@
 from messages import START,NEW,SHOW,DELETE,TIME,TASK,SAVE,NONE,DELETE2,ERROR  
 from constants import TOKEN
+from datetime import datetime
 import telebot
 from telebot import types
 import requests
 import os
-import datetime
 
 bot = telebot.TeleBot(TOKEN)
 
